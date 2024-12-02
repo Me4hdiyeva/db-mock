@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": "kUlnqgOKRhtPnIjZ0RFDC",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Harper Lee",
+      "publishYear": 2011
+    },
+    {
+      "id": "nBtX0tHQzB_3aiPdhafiW",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "publishYear": 1988
+    },
+    {
+      "id": "0h0cM3ljrauih7H-ySYMs",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "publishYear": 2011
+    },
+    {
+      "id": "NjWPgG8rD_EegA1eghR_z",
+      "title": "s",
+      "author": "s",
+      "genre": "s",
+      "publishYear": null
+    }
+  ]
+}
